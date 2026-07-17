@@ -50,6 +50,12 @@ CampusEvent is a web-based system developed to manage university student club ac
 
    http://localhost/club_system/
 
+   ## Presentation Video
+
+Click the link below to watch the project presentation:
+
+   https://drive.google.com/drive/folders/1c-jE2flO-FfVBCpfKOLm06FEOcK7rtwF?usp=drive_link
+
 ## Project Members
 
 - Nurkhairunnisa
